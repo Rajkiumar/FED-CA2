@@ -27,9 +27,9 @@ p{
 }
 
 .btnplay{
-    width: 170px;
-    height: 50px;
-    font-size: 30px;
+    width: 200px;
+    height: 70px;
+    font-size: 40px;
     margin-bottom: 100px;
     box-shadow: 6px 5px darkgray;
     border-radius: 8px;
@@ -102,9 +102,9 @@ button:nth-of-type(3) {
     transform: translate(-50%, -50%) scale(1);
 }
 #inst{
-    width: 170px;
-    height: 50px;
-    font-size: 30px;
+    width: 500px;
+    height: 100px;
+    font-size: 60px;
     margin-bottom: 100px;
     box-shadow: 6px 5px darkgray;
     border-radius: 8px;
@@ -203,8 +203,14 @@ ul{
         width: 90%;
         font-size: 16px;
     }
-    #instru{
-        font-size: 25px;
+    #inst{
+        width: 300px;
+        height: 70px;
+        font-size: 50px;
+        margin-bottom: 100px;
+        box-shadow: 6px 5px darkgray;
+        border-radius: 8px;
+        color: white;
     }
     ul{
         font-size: 18px;
