@@ -11,7 +11,7 @@ let firstCard, secondCard;
 let matchedPairs = 0; // Count for matched pairs
 let timerStarted = false;
 let startTime;
-let gameDuration = 100 * 1000; // 40 seconds in milliseconds
+let gameDuration = 40 * 1000; // 40 seconds in milliseconds
 let intervalId;
 let isFirstClick = true; // Flag to check for the first click
 
